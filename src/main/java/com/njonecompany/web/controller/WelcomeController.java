@@ -1,4 +1,4 @@
-package com.njonecompany.web.controller;
+ package com.njonecompany.web.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -25,7 +25,7 @@ public class WelcomeController {
     }
 
     private String getMessage() {
-        return "Hi, there~!";
+        return "Hi, there";
     }
 
 }
